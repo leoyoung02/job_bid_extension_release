@@ -331,6 +331,10 @@ h2 {
   background: rgba(185, 28, 28, 0.96);
 }
 
+.app-toast.info {
+  background: rgba(37, 99, 235, 0.96);
+}
+
 /* ---- Main Tabs ---- */
 .tabs {
   display: flex;
